@@ -58,5 +58,5 @@ npm start
 ![登录](https://github.com/EthanZhq/Vue-project/tree/master/vue-vant-store/raw/master/screenshots/login.png)
 ![注册](https://github.com/EthanZhq/Vue-project/tree/master/vue-vant-store/raw/master/screenshots/reg.png)
 ### 用户
-![用户](https://github.com/EthanZhq/Vue-project/tree/master/vue-vant-store/raw/master/screenshots/user.png)
+![用户](https://github.com/EthanZhq/Vue-project/vue-vant-store/raw/master/screenshots/user.png)
 
