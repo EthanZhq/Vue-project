@@ -16,7 +16,6 @@ npm run build
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
 这是个基于vue2.6版本开发的商城
 
