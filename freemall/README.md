@@ -32,10 +32,10 @@ npm run build
 # 截图
 
 ### 购物车
-![购物车](https://github.com/EthanZhq/Vue-project/blob/master/vue-vant-store/screenshots/cart.png)
+![购物车](https://github.com/EthanZhq/Vue-project/blob/master/freemall/screenshots/cart.png)
 
 ### 删除弹框
-![订单](https://github.com/EthanZhq/Vue-project/blob/master/vue-vant-store/screenshots/deletebox.png)
+![删除弹框](https://github.com/EthanZhq/Vue-project/blob/master/freemall/screenshots/deletebox.png)
 
 ### 地址
-![地址](https://github.com/EthanZhq/Vue-project/blob/master/vue-vant-store/screenshots/address.png)
+![地址](https://github.com/EthanZhq/Vue-project/blob/master/freemall/screenshots/address.png)
