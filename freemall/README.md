@@ -28,3 +28,14 @@ npm run build
 地址选配实现了地址获取，显示个数，默认地址，设置默认等功能 
 
 使用了slot插槽功能，实现多页面弹框功能
+
+# 截图
+
+### 购物车
+![购物车](https://github.com/EthanZhq/Vue-project/blob/master/vue-vant-store/screenshots/cart.png)
+
+### 删除弹框
+![订单](https://github.com/EthanZhq/Vue-project/blob/master/vue-vant-store/screenshots/deletebox.png)
+
+### 地址
+![地址](https://github.com/EthanZhq/Vue-project/blob/master/vue-vant-store/screenshots/address.png)
