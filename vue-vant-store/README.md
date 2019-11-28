@@ -54,8 +54,7 @@ npm start
 ![订单列表](https://github.com/EthanZhq/Vue-project/blob/master/vue-vant-store/screenshots/orderlist.png)
 ### 地址
 ![地址](https://github.com/EthanZhq/Vue-project/blob/master/vue-vant-store/screenshots/address.png)
-### 登录/注册
-![登录](https://github.com/EthanZhq/Vue-project/blob/master/vue-vant-store/screenshots/login.png)
+### 注册
 ![注册](https://github.com/EthanZhq/Vue-project/blob/master/vue-vant-store/screenshots/reg.png)
 ### 用户
 ![用户](https://github.com/EthanZhq/Vue-project/blob/master/vue-vant-store/screenshots/user.png)
